@@ -11,5 +11,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         //杨文庆创建了工程
         //程传旨布局画废了
+
+        //朱福林看见杨文庆的工程了
+
     }
 }
