@@ -10,6 +10,10 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         //杨文庆创建了工程
+
         //杨文庆待着了
+
+        //程传旨布局画废了
+
     }
 }
